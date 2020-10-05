@@ -1,0 +1,1 @@
+{"player":{"name":"Sam","health":10,"mana":10,"gold":10,"equipment":{"Hammer":5,"Ax":10}}}
